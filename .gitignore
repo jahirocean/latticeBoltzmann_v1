@@ -1,0 +1,5 @@
+.env
+!ign2.txt
+!ign1.txt
+node_modules/
+temp/
